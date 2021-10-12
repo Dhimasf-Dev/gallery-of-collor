@@ -1,0 +1,21 @@
+.Header{
+    margin-top: 10px;
+
+    .marginLeft {
+        margin-left: 10px;
+    }
+
+    .error {
+        margin-left: 105px;
+        color: red;
+        font-size: 14px;
+    }
+
+    .border {
+        padding: 10px 0;
+        border: gray solid 2px;
+        border-left: none;
+        border-right: none;
+        margin-top: 10px
+    }
+}
